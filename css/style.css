@@ -1,0 +1,28 @@
+/* กำหนด CSS สำหรับกรอบข้อความ */
+.info-container {
+    border: 2px solid #3f11e4; /* กรอบสีเขียว */
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f9f9f9; /* พื้นหลังสีอ่อน */
+    border-radius: 5px; /* มุมกรอบโค้ง */
+}
+/* กำหนดกรอบสวยๆ สำหรับเนื้อหา */
+.content-container {
+    border: 2px solid #4CAF50; /* กรอบสีเขียว */
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #f4f4f4; /* พื้นหลังสีเทาอ่อน */
+    border-radius: 15px; /* มุมกรอบโค้ง */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* เงาเบา */
+}
+/* Class Selectors */
+.header {
+    background-color: #04a7bd;
+    color: rgb(0, 0, 0);
+    padding: 1rem;
+   }
+   body {
+    background-color: #b2cbd6;
+    font-family: 'Arial', sans-serif;
+    color: #010101; /* สีตัวอักษรหลัก */
+   }
